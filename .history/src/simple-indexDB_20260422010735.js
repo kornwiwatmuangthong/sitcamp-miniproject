@@ -1,0 +1,1 @@
+import { openDB } from "https://cdn.jsdelivr.net/npm/idb@8/+esm";
